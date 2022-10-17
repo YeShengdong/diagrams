@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-17T08:30:51.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="bM8KHVKxrF27KieNokad" version="20.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-17T08:57:05.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TuvLqbG79N1mx91LCxWm" version="20.3.2" type="github">
   <diagram id="SKNd3EIdWUoYjQNpWwd_" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -8,16 +8,13 @@
           <mxGeometry x="800" y="160" width="320" height="440" as="geometry" />
         </mxCell>
         <mxCell id="kuPXHheHs1qFwVD4z0sM-13" value="Publish&lt;br&gt;filterStore$" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="440" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kuPXHheHs1qFwVD4z0sM-14" value="Subscribe&lt;br&gt;filterStore$" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="600" width="120" height="80" as="geometry" />
+          <mxGeometry x="240" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kuPXHheHs1qFwVD4z0sM-16" value="Subscribe&lt;br&gt;queryParams" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="kuPXHheHs1qFwVD4z0sM-37" value="Done/Reset" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="390" y="530" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="88GkFY1QWdadN0h81eSF-1" value="ProjectListPageComponent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="880" y="560" width="160" height="40" as="geometry" />
@@ -32,40 +29,40 @@
           <mxGeometry x="840" y="480" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="88GkFY1QWdadN0h81eSF-3" value="ProjectSaveFilterComponent" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="880" y="240" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="88GkFY1QWdadN0h81eSF-9" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="660" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="88GkFY1QWdadN0h81eSF-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="300" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="88GkFY1QWdadN0h81eSF-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="300" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="88GkFY1QWdadN0h81eSF-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.three_corner_round_rect;dx=6;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="40" width="120" height="80" as="geometry" />
+          <mxGeometry x="880" y="220" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="88GkFY1QWdadN0h81eSF-16" value="Trigger&lt;br&gt;updateFilterStore" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="620" y="65" width="70" height="30" as="geometry" />
+          <mxGeometry x="720" y="65" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="88GkFY1QWdadN0h81eSF-17" value="ActivatedRoute" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="88GkFY1QWdadN0h81eSF-19" value="ProjectSaveFilterService" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="360" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="88GkFY1QWdadN0h81eSF-20" value="CurrencyService" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="200" width="160" height="80" as="geometry" />
+          <mxGeometry x="1480" y="40" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="88GkFY1QWdadN0h81eSF-22" value="ProjectFilterService" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="40" y="560" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="88GkFY1QWdadN0h81eSF-24" value="Has filter data?" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="400" y="50" width="100" height="60" as="geometry" />
+          <mxGeometry x="490" y="50" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="88GkFY1QWdadN0h81eSF-25" value="Subscribe&lt;br&gt;currentBehaviorSubject" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="180" width="160" height="120" as="geometry" />
+          <mxGeometry x="1240" y="40" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="88GkFY1QWdadN0h81eSF-28" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.diag_round_rect;dx=6;glass=0;fillStyle=auto;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="88GkFY1QWdadN0h81eSF-29" value="Subscribe&lt;br&gt;isMyProjects" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="88GkFY1QWdadN0h81eSF-30" value="Publish&lt;br&gt;isMyProjects" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="88GkFY1QWdadN0h81eSF-31" value="&lt;div&gt;getSavedFilters&lt;/div&gt;&lt;div&gt;saveFilter&lt;/div&gt;&lt;div&gt;deleteFilter&lt;/div&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="220" width="160" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
