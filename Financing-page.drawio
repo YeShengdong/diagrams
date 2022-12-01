@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-01T08:18:37.618Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="g4MrVnLLYp3aiLmXQMrL" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T08:22:48.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wxVNlt7Y_rSGc2SdyKak" version="20.5.1" type="github">
   <diagram id="SKNd3EIdWUoYjQNpWwd_" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" background="none" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="kuPXHheHs1qFwVD4z0sM-4" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="840" y="360" width="240" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="88GkFY1QWdadN0h81eSF-2" value="ProjectFilterComponent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;glass=0;fillStyle=auto;" parent="1" vertex="1">
+        <mxCell id="88GkFY1QWdadN0h81eSF-2" value="FinancingFilterComponent" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;glass=0;fillStyle=auto;" parent="1" vertex="1">
           <mxGeometry x="885" y="480" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kuPXHheHs1qFwVD4z0sM-5" value="" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -164,6 +164,12 @@
         </mxCell>
         <mxCell id="4DGdLXyVOE1tpYwqWEd2-4" value="FinancingBondsTableComponent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="870" y="715" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4DGdLXyVOE1tpYwqWEd2-5" value="FinancingLoansFilterComponent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="865" y="380" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4DGdLXyVOE1tpYwqWEd2-6" value="FinancingBondsFilterComponent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="865" y="430" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
